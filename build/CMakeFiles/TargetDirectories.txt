@@ -1,0 +1,9 @@
+/home/theta/projects/Sunspots/build/CMakeFiles/sunspots.dir
+/home/theta/projects/Sunspots/build/CMakeFiles/edit_cache.dir
+/home/theta/projects/Sunspots/build/CMakeFiles/rebuild_cache.dir
+/home/theta/projects/Sunspots/build/CMakeFiles/list_install_components.dir
+/home/theta/projects/Sunspots/build/CMakeFiles/install.dir
+/home/theta/projects/Sunspots/build/CMakeFiles/install/local.dir
+/home/theta/projects/Sunspots/build/CMakeFiles/install/strip.dir
+/home/theta/projects/Sunspots/build/CMakeFiles/sunspots_autogen_timestamp_deps.dir
+/home/theta/projects/Sunspots/build/CMakeFiles/sunspots_autogen.dir
